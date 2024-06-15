@@ -1,0 +1,9 @@
+<resources>
+
+    <string name="app_name">ListApp</string>
+    <string-array name="filter_options">
+        <item>Show All</item>
+        <item>Filter Blank or Null Names</item>
+    </string-array>
+
+</resources>
